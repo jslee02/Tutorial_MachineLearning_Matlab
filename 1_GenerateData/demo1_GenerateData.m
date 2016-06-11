@@ -4,7 +4,7 @@
 % https://www.facebook.com/terryum.io/              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Please leave the author information if you reuse the codes.
+% Please leave the author information when you reuse the codes.
 
 % [x_train, y_train, x_test, y_test] = GenerateData(opt, bShow, nData, sigma, test_ratio)
 
