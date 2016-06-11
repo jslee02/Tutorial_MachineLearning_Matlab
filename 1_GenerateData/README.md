@@ -8,7 +8,7 @@ GenerateData('half_circle');
 GenerateData('full_circle', true, 800);
 GenerateData('spiral', true, 1200, 1.2, 0.4);
 ```
-![demo1_GenerateData](https://github.com/terryum/Tutorial_MachineLearning_Matlab/1_GenerateData/demo1_GenerateData.png)
+![demo1_GenerateData](https://github.com/terryum/Tutorial_MachineLearning_Matlab/blob/master/1_GenerateData/demo1_GenerateData.png)
 
 ## GenerateData.m
 
