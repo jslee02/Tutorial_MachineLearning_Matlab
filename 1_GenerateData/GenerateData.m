@@ -4,7 +4,7 @@
 % https://www.facebook.com/terryum.io/              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Please leave the author information if you reuse the codes.
+% Please leave the author information when you reuse the codes.
 
 % Input
 % opt : {gaussian(defalut), half_circle, full_circle, spiral}
