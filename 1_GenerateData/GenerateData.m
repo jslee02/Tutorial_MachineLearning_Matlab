@@ -6,12 +6,15 @@
 
 % Please leave the author information when you reuse the codes.
 
-% Input
+% [Input]
 % opt : {gaussian(defalut), half_circle, full_circle, spiral}
 % bShow : {0: Don't plot, 1(defalut): plot}
 % nData : number of data (defalut: 1000)
 % sigma : noise standard deviation (default: 1)
 % test_ratio : ratio of test data (default: 0.2)
+
+% [Output]
+% training and test data
 
 function [x_train, y_train, x_test, y_test] = GenerateData(opt, bShow, nData, sigma, test_ratio)
 
