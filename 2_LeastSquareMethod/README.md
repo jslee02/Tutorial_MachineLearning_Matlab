@@ -18,7 +18,7 @@
 [x_train, y_train, x_test, y_test] = GenerateData('multi_linear', false, 1200, 0.5);
 [err_train, err_test, loss] = LeastSquareMethod_ND(x_train, y_train, x_test, y_test);
 ```
-![demo2_LeastSquareMethod](https://github.com/terryum/Tutorial_MachineLearning_Matlab/blob/master/demo_images/demo3_LeastSquareMethod_Regression.png)
+![demo2_LeastSquareMethod](https://github.com/terryum/Tutorial_MachineLearning_Matlab/blob/master/demo_images/demo2_LeastSquareMethod_Regression.png)
 
 ## LeastSquareMethod_2D.m
 
