@@ -2,8 +2,10 @@
 A tutorial on machine learning from scratch with Matlab
 
 ### [1. Generate Data](https://github.com/terryum/Tutorial_MachineLearning_Matlab/tree/master/1_GenerateData)
-Generate data for experiments (Gaussian, half-circle, full-circle, and spiral data) 
+Generate data for experiments 
 
+### [2. Least Square Method (Linear Regression)](https://github.com/terryum/Tutorial_MachineLearning_Matlab/tree/master/2_LeastSquareMethod)
+Linear regresion in (i) analytic and (ii) numerical approaches
 
 ### Terms of Use
 You can freely modify and reuse the codes for your own purpose. 
